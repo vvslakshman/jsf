@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="left_margin">40dp</dimen>
+    <dimen name="right_margin">40dp</dimen>
+    <dimen name="rights_margin">85dp</dimen>
+    <dimen name="standard_margin">8dp</dimen>
+    <dimen name="top_margin">20dp</dimen>
+    <dimen name="margin_top">50dp</dimen>
+    <dimen name="text_standard">18sp</dimen>
+    <dimen name="text_size1">16sp</dimen>
+    <dimen name="text_size2">14sp</dimen>
+    <dimen name="minimum_size">12sp</dimen>
+    <dimen name="double_size">20sp</dimen>
+
+    <dimen name="text_sixe3">10sp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="margin_right">20dp</dimen>
+    <dimen name="bottom_margin">3dp</dimen>
+    <dimen name="mragintop">10dp</dimen>
+    <dimen name="standard_padding">12dp</dimen>
+
+
+
+
+</resources>

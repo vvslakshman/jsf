@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">JSF</string>
+
+    <string-array name="Select_City">
+        <item>Jaipur</item>
+        <item>Kota</item>
+        <item>Ajamer</item>
+
+    </string-array>
+
+    <string name="login">Login</string>
+    <string name="fullname">Full Name</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="getotp">Get Otp</string>
+    <string name="verifynumber">Verify Your Mobile Number</string>
+    <string name="otptext">We have sent a 4 digit One Time Password to</string>
+    <string name="verify">Verify</string>
+    <string name="recode">Resend</string>
+    <string name="dummynumber">0000000000</string>
+    <string name="otp_not_received">D i d n \'t \t  g e t \t t h e \t c o d e ?</string>
+    <string name="signup">Don\'t have Login! SignUp</string>
+    
+    
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Location</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_coupons">Coupons</string>
+    <string name="menu_about">About JSF</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="event">Events</string>
+    <string name="reffer">REFFALS</string>
+    <string name="market">Market Associate</string>
+    <string name="winner">Winner</string>
+    <string name="sponsar">Sponsor</string>
+    <string name="sri">Sri</string>
+    <string name="loyalty">Loyalty Point</string>
+
+    <string name="artist_name">Artist :</string>
+    <string name="show_time">Time :</string>
+    <string name="contact">Contact :</string>
+    <string name="about_event">About Event</string>
+    <string name="musical_night">Musical Night With</string>
+    <string name="night_music">Muscial Night</string>
+
+    <string name="check_internet_connection">Make sure your device is connected to the internet.</string>
+    <string name="server_error">Something went wrong!Please try again</string>
+    <string name="no_reocord_found">No Record Found</string>
+
+    <string name="enter_name_error">Please Enter Name</string>
+    <string name="enter_mobile_error">Please Enter Mobile Number</string>
+
+    <string name="mobile_no_empty">mobile number filed is required</string>
+    <string name="mobiel_length_error">Mobile number max length is 10</string>
+    <string name="verify_your_mobile_number">Verify Your Mobile Number</string>
+    <string name="you_have_send_a_4_digit_one_time_password_to">We have sent a 4 digit \'One Time Password\' to</string>
+    <string name="_9214392143">9214392143</string>
+    <string name="verity">Verify</string>
+    <string name="did_nt_get_the_code">Did\'nt get the code?</string>
+    <string name="resend">resend</string>
+    <string name="select_your_city">Select City</string>
+    <string name="please_select_image">Please Select Image</string>
+    <string name="valid_city_error">please Select Valid City</string>
+    <string name="otp_error">Please Fill Otp</string>
+    <string name="change_city">Change City...</string>
+    <string name="shops">Shop</string>
+    <string name="today_s_event">Today\'s Event</string>
+    <string name="no_event">No Event</string>
+
+
+    <!--fcm-->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="enter_your_code">Enter Your Code</string>
+    <string name="apply">Apply</string>
+    <string name="winner_1">Winner 1</string>
+    <string name="_1st_prize">1st Prize</string>
+    <string name="winner_2">Winner 2</string>
+    <string name="jaipur">Jaipur</string>
+    <string name="_2nd_prize">2nd Prize</string>
+    <string name="winner_3">Winner 3</string>
+    <string name="_3rd_prize">3rd Prize</string>
+    <string name="applied_coupon">Applied Coupons</string>
+    <string name="otp_send_success">Otp send Successfully</string>
+    <string name="_7240333111">7240333111</string>
+
+</resources>

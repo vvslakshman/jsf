@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D81B60</color>
+    <color name="colorPrimaryDark">#F73C80</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text_color">#CB1C6F</color>
+    <color name="btn_color">#9C27B0</color>
+    <color name="card_color">#FFFFFF</color>
+    <color name="nav_color">#FFC44F</color>
+    <color name="main_bg">#E60880</color>
+    <color name="main">#E608C1</color>
+    <color name="transparent_white">#CDFFFFFF</color>
+</resources>

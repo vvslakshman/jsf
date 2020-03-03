@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginTop="@dimen/double_standard_margin"
+
+    >
+
+    <androidx.appcompat.widget.Toolbar
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+
+        android:id="@+id/toolbar"
+
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@drawable/custom_toolbar">
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/app_name"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="@color/btn_color"
+            android:textSize="@dimen/double_size"
+            />
+        <TextView
+            android:visibility="visible"
+            android:id="@+id/tv_location"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/double_standard_margin"
+            android:layout_marginLeft="@dimen/standard_margin"
+            android:layout_marginTop="@dimen/standard_margin"
+            android:layout_marginBottom="@dimen/standard_margin"
+            android:gravity="center"
+            android:singleLine="true"
+            android:layout_gravity="right"
+            android:text="@string/app_name"
+            android:drawablePadding="5dp"
+            android:drawableLeft="@drawable/ic_location"
+            android:textColor="@color/btn_color"
+            android:textSize="@dimen/text_standard"
+            />
+
+
+        <!--        <LinearLayout-->
+
+        <!--            android:layout_marginRight="20dp"-->
+        <!--            android:id="@+id/ll_location"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="match_parent"-->
+        <!--            android:gravity="right"-->
+        <!--            android:orientation="horizontal"-->
+        <!--            app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--            app:layout_constraintEnd_toEndOf="parent"-->
+        <!--            app:layout_constraintTop_toTopOf="parent">-->
+
+        <!--            <TextView-->
+        <!--                android:textStyle="bold"-->
+        <!--                android:id="@+id/tv_location"-->
+        <!--                android:layout_width="wrap_content"-->
+        <!--                android:layout_height="match_parent"-->
+        <!--                android:layout_gravity="center"-->
+        <!--                android:drawableLeft="@drawable/ic_location"-->
+        <!--                android:drawablePadding="@dimen/standard_margin"-->
+        <!--                android:gravity="center"-->
+        <!--                android:text="@string/app_name"-->
+        <!--                android:textColor="@color/btn_color"-->
+        <!--                android:textSize="@dimen/text_standard" />-->
+
+
+        <!--        </LinearLayout>-->
+
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+</LinearLayout>

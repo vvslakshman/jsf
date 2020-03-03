@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data></data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg5"
+        android:orientation="vertical"
+        tools:context=".Activities.EventActivity">
+
+        <include
+            android:id="@+id/include_toolbar"
+            layout="@layout/custom_toolbar_menu"
+          />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/event_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/double_standard_margin"
+            android:layout_marginTop="@dimen/double_standard_margin"
+            android:layout_marginRight="@dimen/double_standard_margin"
+            android:layout_marginBottom="@dimen/bottom_margin"
+            android:orientation="vertical">
+
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </LinearLayout>
+
+
+</layout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:background="@color/card_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FCEFEE"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:id="@+id/tv_items"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_size1"
+            android:drawableLeft="@drawable/ic_nav_home"
+            android:drawableRight="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:drawablePadding="20dp"
+            android:paddingRight="@dimen/standard_margin"
+            android:paddingLeft="@dimen/standard_margin"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:text="@string/menu_home" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

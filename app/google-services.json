@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "59472870204",
+    "firebase_url": "https://jsf-shopping-festival-622dc.firebaseio.com",
+    "project_id": "jsf-shopping-festival-622dc",
+    "storage_bucket": "jsf-shopping-festival-622dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59472870204:android:f4689ad60a77100fcafc39",
+        "android_client_info": {
+          "package_name": "com.htl.jsf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59472870204-0e5nj0ij4k674mlmloo150s3gu37ko8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.htl.jsf",
+            "certificate_hash": "126f027d1fd2bea646ca2aa35be90fbac5944be5"
+          }
+        },
+        {
+          "client_id": "59472870204-1veom3nkiibum9b46vgqqmhoj337ssho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmXS7EzYWnRrvg3L7dYcDR5M8-PDJJQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59472870204-1veom3nkiibum9b46vgqqmhoj337ssho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59472870204-hg70me58nju7n0ksecqtqp3b21h5ekev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hugh.jsf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59472870204:android:dab5a5f0669741ebcafc39",
+        "android_client_info": {
+          "package_name": "com.hugh.jsf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59472870204-1veom3nkiibum9b46vgqqmhoj337ssho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmXS7EzYWnRrvg3L7dYcDR5M8-PDJJQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59472870204-1veom3nkiibum9b46vgqqmhoj337ssho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59472870204-hg70me58nju7n0ksecqtqp3b21h5ekev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hugh.jsf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
